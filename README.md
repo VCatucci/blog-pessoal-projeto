@@ -1,1 +1,1 @@
-# blog-pessoal-pronjeto
+# blog-pessoal-projeto
